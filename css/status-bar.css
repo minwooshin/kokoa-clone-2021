@@ -21,10 +21,6 @@
   align-items: center;
 }
 
-.status-bar__column span {
-  margin-right: 5px;
-}
-
-.status-bar__column .fas fa-bolt {
-  margin-left: 3px;
+.status-bar__column .fa-battery-full {
+  margin: 0px 5px;
 }
